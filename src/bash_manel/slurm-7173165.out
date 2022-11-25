@@ -1,0 +1,480 @@
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+Traceback (most recent call last):
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    return _read(filepath_or_buffer, kwds)
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    check(file1, file2, file3)
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    handle = open(
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+    handle = open(
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    return func(*args, **kwargs)
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+    self._engine = self._make_engine(f, self.engine)
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    return _read(filepath_or_buffer, kwds)
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
+Traceback (most recent call last):
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 24, in <module>
+    check(file1, file2, file3)
+  File "/home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py", line 8, in check
+    chromLen = pd.read_table(file2, header=None)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1289, in read_table
+    return _read(filepath_or_buffer, kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+  File "/sw/comp/python/3.10.8/snowy/lib/python3.10/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './chrom_length.fa'
