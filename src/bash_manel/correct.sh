@@ -13,5 +13,5 @@ module load python
 
 cd "/crex/proj/snic2020-16-187/nobackup/funMotifs_analysis/Siqi_files/results-ds-project-manel/extend_motifs/"
 
-ls *merged | xargs -i -P 16 bash -c "python /home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py {} /home/mama9758/private/s/chrom_length.fa  {}.corrected"
+ls *merged | xargs -i -P 16 bash -c "python /home/mama9758/private/deNovofunMotifs/src/correct_ending_coordinate2.0.py {} /home/mama9758/private/deNovofunMotifs/src/bash_manel/chrom_length.fa  {}.corrected"
 

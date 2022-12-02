@@ -8,11 +8,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user manel.mateos-i-font.9758@student.uu.se
 
-
 module load python
-
-#pip install biopython
-
 
 for i in /crex/proj/snic2020-16-187/nobackup/funMotifs_analysis/Siqi_files/results-ds-project-manel/extend_motifs/*fa
 
