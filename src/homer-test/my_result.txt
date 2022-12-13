@@ -1,0 +1,1 @@
+FASTA ID	Offset	Sequence	Motif Name	Strand	MotifScore
