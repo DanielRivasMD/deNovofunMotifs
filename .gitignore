@@ -4,4 +4,6 @@
 *out*
 *result*
 *tmp*
-
+*.txt
+*.R*
+*.png
