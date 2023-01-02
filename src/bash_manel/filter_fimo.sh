@@ -10,9 +10,9 @@
 
 module load python
 
-data_dir=/crex/proj/snic2020-16-187/nobackup/funMotifs_analysis/Siqi_files/results-ds-project-manel/find_new_motifs
+data_dir=/crex/proj/snic2020-16-187/nobackup/funMotifs_analysis/Siqi_files/results-ds-project-manel/lisa_results
 
-for i in chr10 chr1
+for i in chr21 chr1
 
 do
 
