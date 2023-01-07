@@ -18,7 +18,7 @@ def filtering(ori_bed, output):
             if check(mutate, ori_bed.iloc[i,:]):
                 row=[str(ele) for ele in ori_bed.iloc[i, :]]
                 row='\t'.join(row)
-                output.write(f'{row}\n')
+                output.write('{}\n'.format(row))
                 break
     return 
 
