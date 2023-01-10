@@ -33,5 +33,5 @@ if __name__=="__main__":
     outf.close()
     outf=open(file2, 'a')
     filtering(ori_bed, outf)
-    output.close()
+    outf.close()
 

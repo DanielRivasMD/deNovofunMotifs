@@ -25,10 +25,10 @@ pwms <- toPWM(pfms)
 
 res <- findMotifHits(query = pwms ,
                      subject = gen_mut,
-                     min.score = 25,
+                     min.score = 15,
                      method = "matchPWM",
                      BPPARAM = bpparam()
                      )
 
-write.table( x = data.frame(res), file = "data/chr21.results_25.txt", sep="\t", col.names=TRUE, row.names=FALSE, quote=FALSE )
+write.table( x = data.frame(res), file = "data/chr21.results_15.txt", sep="\t", col.names=TRUE, row.names=FALSE, quote=FALSE )
 
